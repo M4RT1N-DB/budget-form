@@ -1,0 +1,28 @@
+
+.inner-content {
+  height: 100vh;
+  width: 100vw;
+  background: #000428; 
+  background: -webkit-linear-gradient(to right, #5295d0, #4153f8);  
+  background: linear-gradient(to right, #5295d0, #4153f8); 
+  display: flex;
+  justify-content: center;
+  
+}
+.container {
+  width: 70%;
+  margin: 15px;
+  padding:0 15px;
+  text-align: center;
+
+
+  background-color: cornflowerblue;
+}
+.container > h1{
+    color: #fff;
+}
+.content{
+    background-color: #fff;
+    border-radius: 10px;
+    padding:0 15px;
+}
