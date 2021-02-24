@@ -20,7 +20,6 @@ const onErrorForm=(error:any)=>{
 }
 const Question: React.FC<QuestionProps> = () => {
   return (
-    <div className="wrapp-content">
       <Fragment>
       <h2>Put your budget</h2>
       <Form
@@ -44,7 +43,6 @@ const Question: React.FC<QuestionProps> = () => {
         </Form.Item>
       </Form>
     </Fragment>
-    </div>
     
   );
 };
