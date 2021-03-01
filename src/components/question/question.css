@@ -1,14 +1,13 @@
-/* Chrome, Safari, Edge, Opera */
-/* input::-webkit-outer-spin-button,
-input::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
+
+ 
+Button{
+ width: 100%;   
 }
 
-input[type=number] {
-  -moz-appearance: textfield;
-} */
-
-.wrapp-content{
-padding: 15px;
+.ant-input-number{
+  width: 100% !important;
+}
+h1{
+  color: #47b7bf;
+  font-size: 1.5rem;
 }

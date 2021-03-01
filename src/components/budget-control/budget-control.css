@@ -1,0 +1,6 @@
+.budget-control > .alert-budget{
+    background-color: rgb(120, 194, 255);
+    margin-bottom: 5px;
+    border-radius:5px ;
+    border: 1px solid rgb(68, 171, 255);
+}
